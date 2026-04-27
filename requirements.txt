@@ -6,3 +6,5 @@ ipykernel
 scikit-learn
 kneed
 jupyterlab
+scipy
+statsmodels
